@@ -18,6 +18,7 @@
 
 ### Languages and tools
 
+<div>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript&logoColor=#3178C6"/>
 <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
@@ -29,6 +30,7 @@
 <img src="https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass&logoColor#=CC6699"/>
 <img src="https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4"/>
 <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#F05032"/>
+</div>
 
 ### My stat
 
