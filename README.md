@@ -1,11 +1,10 @@
-<div id="header">
-    <h2>I'm a Frontend Developer from Saint Petersburg</h2>
-    <a href="https://t.me/anastassia11">
+<div align="center">
+<h2>Hi, I'm Anastasiya</h2>
+<a href="https://t.me/anastassia11">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
-## About me
+<h3>I'm a frontend developer with  experience in developing responsive and user-friendly websites.</h3>
 
 - 🎓 Technical education
 - 🧬 **Founder** tech startup
