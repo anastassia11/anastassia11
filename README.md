@@ -1,9 +1,6 @@
-<div id="header" align="center">
-    <h3>I'm a Frontend Developer from Saint Petersburg</h3>
-</div>
-
-<div id="socials" align="center">
-  <a href="https://t.me/anastassia11">
+<div id="header">
+    <h2>I'm a Frontend Developer from Saint Petersburg</h2>
+    <a href="https://t.me/anastassia11">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
